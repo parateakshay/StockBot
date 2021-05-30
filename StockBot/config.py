@@ -1,2 +1,3 @@
-API_KEY = 'quoYMl0sLQP6iK9C4bYTWW7H2edyeLir8BXW1H8C1QgbrKGZQOPGZpXTeWhU9wKy'
-API_SECRET = 'oI72AI9xNgX2wPLbCcTlY2smlLhIlh66BZpiVWwEZ2R2Mn6nh6Q9B2KPhWIzzRGD'
+# enter your own api key and api secret from your binance account
+API_KEY = 'quoYMl0sL********************Lir8BXW1H8C1Qg******pXTeWhU9wKy'
+API_SECRET = 'oI72****************LhIlh66BZpiVWwEZ2R2*******zRGD'
